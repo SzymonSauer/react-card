@@ -1,3 +1,9 @@
+# React Card
+
+I created this project to learn the basics of React.
+The site is available online: https://rad-gumption-344927.netlify.app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
